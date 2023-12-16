@@ -1,0 +1,54 @@
+
+===================================
+Movie: Scream
+Cinema Screen: Gold
+Time Slot: 12:00PM
+Drinks: 
+Popcorn: 
+Seats: B2
+===================================
+
+===================================
+Movie: 20N-Space Jam
+Cinema Screen: Gold
+Time Slot: 1:00AM
+Drinks: Latte
+Popcorn: Salty
+Seats: B2
+===================================
+
+===================================
+Movie: 27A-The Matrix
+Cinema Screen: Gold
+Time Slot: 10:00 PM
+Drinks: 
+Popcorn: 
+Seats: B1
+===================================
+
+===================================
+Movie: Zombieland
+Cinema Screen: Gold
+Time Slot: 10:00 PM
+Drinks: Latte
+Popcorn: Salty
+Seats: B2
+===================================
+
+===================================
+Movie: Scream
+Cinema Screen: Gold
+Time Slot: 10:00 PM
+Drinks: 
+Popcorn: 
+Seats: B2
+===================================
+
+===================================
+Movie: 21H-Scream
+Cinema Screen: Gold
+Time Slot: 2:00AM
+Drinks: 
+Popcorn: 
+Seats: B1
+===================================

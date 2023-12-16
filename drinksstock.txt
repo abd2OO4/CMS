@@ -1,0 +1,9 @@
+1-CocaCola=10
+2-Fanta=10
+3-Sprite=10
+4-VanillaShake=10
+5-ChoclateShake=10
+6-PeanutButter=10
+7-CardimumTea=10
+8-Capuccino=10
+9-Latte=10
